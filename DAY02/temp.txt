@@ -1,6 +1,7 @@
 1. 0 characters , 0 words
 2. photo post card (facebook)
-3. fruit basket
+3. a] fruit basket 
+   b] Login
 4. State in class components : Declarative programing : todo 
 5. on off button
-6. statefull function components: input type
+6. statefull function components: input type (random generate)

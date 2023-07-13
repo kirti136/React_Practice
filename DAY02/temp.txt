@@ -5,3 +5,4 @@
 4. State in class components : Declarative programing : todo 
 5. on off button
 6. statefull function components: input type (random generate)
+7. Dark mode and light mode
